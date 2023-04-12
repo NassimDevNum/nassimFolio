@@ -457,9 +457,13 @@ body{
 
 /*page projet */
 
+/*page veille tech */
 
 
 
+#FluxRss .Rss{
+    padding: 30px;
+}
 
 
 
