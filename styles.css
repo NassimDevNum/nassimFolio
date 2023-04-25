@@ -169,6 +169,15 @@ a.nav-link {
 	margin-bottom: 1.5rem;
 	color: #d8cbe1;
 }
+.hero__headingp {
+	font-family: Poppins;
+	/*font-weight: 600;*/
+	line-height: 1.4em;
+	text-align: center;
+	font-size: 1.8rem;
+	margin-bottom: 1.5rem;
+	color: #d8cbe1;
+}
 .hero__info {
 	text-align: center;
 	font-size: 1.4rem;
@@ -194,6 +203,12 @@ a.nav-link {
 		font-size: 3.6rem;
 		margin-bottom: 2rem;
 		text-align: left;
+	}
+    .hero__headingp {
+		font-size: 1.6rem;
+		margin-bottom: 2rem;
+		text-align: left;
+        padding: 0% 9%;
 	}
 
 	.hero__info {
