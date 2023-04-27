@@ -187,9 +187,11 @@ a.nav-link {
 	}
 	.hero__left {
 		flex: 3;
+        order:2;
 	}
 	.hero__right {
 		flex: 4;
+        order:3;
 	}
 	.hero__heading {
 		font-size: 3.6rem;
@@ -538,6 +540,7 @@ body{
 .test35 {
     display: flex;
     justify-content: center;
+    margin-bottom: 35px;
 }
 /* card */
 .cards {
